@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mandydoumane
-- 👀 I’m interested in web development, project management and everything related to the equine environment
-- 🌱 I’m currently learning digital design and management
-- 💞️ I’m looking to collaborate on nothing for the moment
-- 📫 How to reach me ... in linkedin
+Bonjour cher visiteur, te voilà sur mon espace où je te présente mes travaux de formation!
+Je travaille en Python, javascript et principalement avec le framework Django.
+Tous les projets présents ici sont de droits privés et les droits réservés à mon propre usage.
+Je suis encore en plein apprentissage et j'adore apprendre, chercher, galérer et enfin trouver la solution qui fonctionne!!
+Je reccherche un stage de développeur web pour début Aout alors si tu as des contacts... envoie-les moi surtout!!
 
-<!---
-mandydoumane/mandydoumane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je te souhaite une bonne visite cher visiteur!
