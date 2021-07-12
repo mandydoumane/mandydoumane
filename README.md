@@ -1,4 +1,4 @@
-Bonjour cher visiteur, te voilà sur mon espace où je te présente mes travaux de formation!
+Bonjour cher visiteur, te voilà sur mon espace où je te présente mes projets ! 
 Je travaille en Python, javascript et principalement avec le framework Django.
 Tous les projets présents ici sont de droits privés et les droits réservés à mon propre usage.
 Je suis encore en plein apprentissage et j'adore apprendre, chercher, galérer et enfin trouver la solution qui fonctionne!!
